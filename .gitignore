@@ -49,6 +49,7 @@ tools.js
 tsconfig.json
 users.js
 verifier.js
+wl.js
 
 # boilerplate #
 ###############
