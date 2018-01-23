@@ -9,6 +9,7 @@
 /test/*
 /tournaments/*
 /index/*
+/data/*
 npm-debug.log
 .eslintcache
 package-lock.json
