@@ -32,7 +32,7 @@ function parseStatus(text, encoding) {
 }
 
 exports.commands = {
-	away: function (target, room, user) {
+	awayz: function (target, room, user) {
 		if (!this.canTalk()) return this.errorReply("You cannot do this while unable to talk.");
 		if (!user.isAway && user.name.length > 15) return this.sendReply("Your username is too long for any kind of use of this command.");
 
