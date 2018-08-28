@@ -1,5 +1,5 @@
 /*
-* Hangman chat plugin
+* Hangman chat ssssssssssssssssssssssssssssssssssss
 * By bumbadadabum and Zarel. Art by crobat.
 */
 
