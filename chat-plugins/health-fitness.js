@@ -1,5 +1,5 @@
 /**
- * Heath & Fitness chat-plugin
+ * Heath & Fitness chat-pluginss
  * Pokemon Showdown - http://pokemonshowdown.com/
  *
  * This handles health and fitness daily challenges as well as a daily quote
